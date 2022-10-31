@@ -1,7 +1,5 @@
 ### Olá, Eu sou Italo! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Estudante de HTML e CSS.
 - 🌱 Universitario.
 - 👯 18y
@@ -10,7 +8,6 @@ Here are some ideas to get you started:
 - 📫 sulamita.italo12@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Nosso cerebro não ler letra por letra, ele ler o todo ou a primeira letra e a última.
-
 
   <div align="center">
   <a href="https://github.com/TyranoT">
