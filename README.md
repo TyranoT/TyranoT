@@ -37,14 +37,12 @@ object **Italo Git** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TyranoT&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[Website]: TyranoT.github.io/Wiki-A.I
 [Instagram]: https://www.instagram.com/italo.ml04/
 [linkedin]: www.linkedin.com/in/italo-monteiro-leite-697b94256
 <br>
 
 #### Rede Sociais!
-
-🏡 [Website][Website] **|** 
+ 
 📷 [Instagram][Instagram] **|** 
 👔 [Linkedin][Linkedin]
 
