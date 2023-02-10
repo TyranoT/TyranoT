@@ -34,7 +34,7 @@ object **Italo Git** {
 </a>
 
 <a href="https://github.com/TyranoT">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TyranoT&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TyranoT&show_icons=true&theme=dracula&line_height=27" alt="**Italo.git** github stats"/>
 </a>
 
 [Instagram]: https://www.instagram.com/italo.ml04/
