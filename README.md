@@ -9,7 +9,7 @@ Estudando Desenvolvimento Web e Programação.
 ```kotlin
 object **Italo Git** {
  val name = "Italo Monteiro Leite"
- val acknowledgements = "Desenvolvimento Web"
+ val acknowledgements = "Full-Stacks"
  
  val primarySkillset = "Paciência, Aprendizagem Rápido e Determinado"
  val languages = listOf("HTML","CSS","TypeScript","Python", "JavaScript")
