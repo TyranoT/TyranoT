@@ -12,7 +12,7 @@ object **Italo Git** {
  val acknowledgements = "Desenvolvimento Web"
  
  val primarySkillset = "Paciência, Aprendizagem Rápido e Determinado"
- val languages = listOf("Python", "JavaScript", "React")
+ val languages = listOf("HTML","CSS","TypeScript","Python", "JavaScript")
 
 }
 ```
