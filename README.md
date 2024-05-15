@@ -12,7 +12,7 @@ object **Italo Git** {
  val acknowledgements = "Full-Stacks"
  
  val primarySkillset = "Paciência, Aprendizagem Rápido e Determinado"
- val languages = listOf("HTML","CSS","TypeScript","Python", "JavaScript")
+ val languages = listOf("HTML","CSS","Python", "JavaScript")
 
 }
 ```
@@ -24,7 +24,6 @@ object **Italo Git** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0AbouM2qoz5UUzV_AoYL6VJb_8Rdg5P2XwLzhQ125cQ&s"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"></code>
 
 
