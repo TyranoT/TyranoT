@@ -12,7 +12,7 @@ object **Italo Git** {
  val acknowledgements = "Full-Stacks"
  
  val primarySkillset = "Paciência, Aprendizagem Rápido e Determinado"
- val languages = listOf("HTML","CSS","Python", "JavaScript")
+ val languages = listOf("HTML","CSS","Python", "JavaScript", "PHP")
 
 }
 ```
@@ -40,7 +40,7 @@ object **Italo Git** {
 </a>
 
 [Instagram]: https://www.instagram.com/italo.ml04/
-[linkedin]: www.linkedin.com/in/italo-monteiro-leite-697b94256
+[linkedin]: https://www.linkedin.com/in/italo-monteiro-leite-697b94256
 <br>
 
 #### Rede Sociais!
