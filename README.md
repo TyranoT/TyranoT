@@ -26,7 +26,7 @@ object **Italo Git** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"></code>
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"></code>
 
 
 ## **GitHub Estatísticas**
