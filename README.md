@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Estudando Desenvolvimento Web e Programação.
+Estudante de Ciências da Computação (Bacharelado)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
