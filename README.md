@@ -12,8 +12,8 @@ object **Italo Git** {
  val acknowledgements = "Full-Stacks"
  
  val primarySkillset = "Paciência, Aprendizagem Rápido e Determinado";
- val languages = listOf("Python", "JavaScript", "PHP", "TypeScript", "PostgresSQL");
- val frameworks = listOf("Reactjs", "Nextjs", "TailwindCSS", "Express.js", "Node.js", "Vue.js", "Fastfy.js", "Prisma");
+ val languages = listOf("Python", "JavaScript", "PHP", "TypeScript", "PostgresSQL", "Nginx");
+ val frameworks = listOf("Reactjs", "Nextjs", "TailwindCSS", "Express.js", "Node.js", "Vue.js", "Fastify.js", "Prisma");
  val services = listOf("EC2", "S3", "RDS", "Bedrock");
 
 }
