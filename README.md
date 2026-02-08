@@ -31,17 +31,6 @@ object **Italo Git** {
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></code>
 
-
-## **GitHub Estatísticas**
-
-<a href="https://github.com/TyranoT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyranoT&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/TyranoT">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TyranoT&show_icons=true&theme=dark&line_height=27" alt="**Italo.git** github stats"/>
-</a>
-
 [Instagram]: https://www.instagram.com/italo.ml04/
 [linkedin]: https://www.linkedin.com/in/italo-monteiro-leite-697b94256
 <br>
