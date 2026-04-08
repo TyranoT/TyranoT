@@ -22,10 +22,6 @@ Widget reutilizável para PDF publicado como pacote npm.
 Um projeto que mostra meu interesse em criar ferramentas úteis para outros desenvolvedores.  
 📦 [Ver no npm](https://www.npmjs.com/package/@italo-git/widgetpdf)
 
-### [NextStageAPI](https://github.com/TyranoT/NextStageAPI)
-Projeto backend/API com foco em organização, escalabilidade e boas práticas de desenvolvimento.  
-🌐 [Acessar projeto](https://next-stage-api-zeta.vercel.app)
-
 ## Tecnologias
 
 ### Frontend
