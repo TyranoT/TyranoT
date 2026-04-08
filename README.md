@@ -44,7 +44,7 @@ TypeScript, JavaScript, Node.js, React, Next.js, HTML, CSS, Git, GitHub, npm, Ve
   <a href="https://www.instagram.com/italo.ml04/">
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c32d573a-fc65-4455-a2c3-4952798598bc" />
   </a>
-  <span style="height: 40px; border: 1px 0px 0px 0px solid black;"/>
+  |
   <a></a>
   <a></a>
 </div>
