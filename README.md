@@ -33,8 +33,9 @@ TypeScript, JavaScript, Node.js, React, Next.js, HTML, CSS, Git, GitHub, npm, Ve
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TyranoT&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TyranoT&layout=compact)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TyranoT&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TyranoT&layout=compact&theme=tokyonight)
 
 ## Contato
 
