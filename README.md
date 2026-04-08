@@ -41,7 +41,9 @@ TypeScript, JavaScript, Node.js, React, Next.js, HTML, CSS, Git, GitHub, npm, Ve
 ## Contato
 
 <div>
-  <a href="https://www.instagram.com/italo.ml04/"><img height="80px" src="https://github.com/user-attachments/assets/fc4ef496-5820-4479-8b49-ef66e046eaa5"/></a>
+  <a href="https://www.instagram.com/italo.ml04/">
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c32d573a-fc65-4455-a2c3-4952798598bc" />
+  </a>
   <a></a>
   <a></a>
 </div>
