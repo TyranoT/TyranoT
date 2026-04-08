@@ -40,7 +40,7 @@ TypeScript, JavaScript, Node.js, React, Next.js, HTML, CSS, Git, GitHub, npm, Ve
 
 ## Contato
 
-<div style="display: flex; gap: 8px">
+<div style="display: flex; gap: '8px'">
   <a href="https://www.instagram.com/italo.ml04/" target="_blank">
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c32d573a-fc65-4455-a2c3-4952798598bc" />
   </a>
