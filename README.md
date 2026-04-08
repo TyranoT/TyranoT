@@ -1,42 +1,43 @@
-### Oie devs 👋
+# Olá, eu sou Italo Monteiro 👋
 
-Estudante de Ciências da Computação (Bacharelado)
+Desenvolvedor de Software da Paraíba, Brasil 🇧🇷  
+Estudante de Ciência da Computação, focado em criar aplicações web, APIs e ferramentas úteis para desenvolvedores.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## Sobre mim
 
-<img align="right" width="100" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+- 💻 Trabalho principalmente com **TypeScript, Node.js, React e Next.js**
+- 🚀 Gosto de desenvolver projetos práticos que resolvem problemas reais
+- 📚 Tenho interesse em **desenvolvimento web, APIs, ferramentas para devs e experimentos com IoT/ESP32**
+- 🎯 Busco escrever código limpo, manter boa documentação e evoluir sempre como desenvolvedor full stack
 
-```kotlin
-object **Italo Git** {
- val name = "Italo Monteiro Leite"
- val acknowledgements = "Full-Stacks"
- 
- val softSkills = "Paciência, Aprendizagem Rápido e Determinado";
- val languages = listOf("Python", "JavaScript", "PHP", "TypeScript", "PostgresSQL", "Nginx");
- val frameworks = listOf("Reactjs", "Nextjs", "TailwindCSS", "Express.js", "Node.js", "Vue.js", "Fastify.js", "Prisma");
- val services = listOf("EC2", "S3", "RDS", "Bedrock");
+## Projetos em destaque
 
-}
-```
+### [Molel](https://github.com/TyranoT/Molel)
+Software de simulação de estruturas de cadeias carbônicas.  
+Projeto desenvolvido com TypeScript, com foco em utilidade educacional e científica.  
+🌐 [Acessar projeto](https://molel.vercel.app)
 
-## **Linguagens e Ferramentas:**  
+### [WidgetPDF](https://github.com/TyranoT/WidgetPDF)
+Widget reutilizável para PDF publicado como pacote npm.  
+Um projeto que mostra meu interesse em criar ferramentas úteis para outros desenvolvedores.  
+📦 [Ver no npm](https://www.npmjs.com/package/@italo-git/widgetpdf)
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></code>
+### [NextStageAPI](https://github.com/TyranoT/NextStageAPI)
+Projeto backend/API com foco em organização, escalabilidade e boas práticas de desenvolvimento.  
+🌐 [Acessar projeto](https://next-stage-api-zeta.vercel.app)
 
-[Instagram]: https://www.instagram.com/italo.ml04/
-[linkedin]: https://www.linkedin.com/in/italo-monteiro-leite-697b94256
-<br>
+## Tecnologias
 
-#### Rede Sociais!
- 
-📷 [Instagram][Instagram] **|** 
-👔 [Linkedin][Linkedin]
+**Linguagens e ferramentas**  
+TypeScript, JavaScript, Node.js, React, Next.js, HTML, CSS, Git, GitHub, npm, Vercel, .NET e Linux
 
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TyranoT&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TyranoT&layout=compact)
+
+## Contato
+
+- GitHub: [TyranoT](https://github.com/TyranoT)
+- Projeto Molel: [molel.vercel.app](https://molel.vercel.app)
+- npm: [@italo-git/widgetpdf](https://www.npmjs.com/package/@italo-git/widgetpdf)
