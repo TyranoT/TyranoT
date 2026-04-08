@@ -1,4 +1,4 @@
-# Olá, eu sou Italo Monteiro 👋
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fc4ef496-5820-4479-8b49-ef66e046eaa5" /># Olá, eu sou Italo Monteiro 👋
 
 Desenvolvedor de Software da Paraíba, Brasil 🇧🇷  
 Estudante de Ciência da Computação, focado em criar aplicações web, APIs e ferramentas úteis para desenvolvedores.
@@ -40,6 +40,8 @@ TypeScript, JavaScript, Node.js, React, Next.js, HTML, CSS, Git, GitHub, npm, Ve
 
 ## Contato
 
-- GitHub: [TyranoT](https://github.com/TyranoT)
-- Projeto Molel: [molel.vercel.app](https://molel.vercel.app)
-- npm: [@italo-git/widgetpdf](https://www.npmjs.com/package/@italo-git/widgetpdf)
+<div>
+  <a href="https://www.instagram.com/italo.ml04/"><img height="180cm" src=""/></a>
+  <a></a>
+  <a></a>
+</div>
