@@ -57,7 +57,7 @@ Um projeto que mostra meu interesse em criar ferramentas úteis para outros dese
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
 ### IA e LLM
-[![Pinecone](https://img.shields.io/badge/Pinecone-00D09C?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-00D09C?style=for-the-badge&logoColor=white)](https://www.pinecone.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![AI SDK](https://img.shields.io/badge/AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sdk.vercel.ai/)
 
