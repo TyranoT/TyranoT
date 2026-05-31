@@ -14,6 +14,7 @@ Estudante de Ciência da Computação, focado em criar aplicações web, APIs e 
 
 ### [Italo Monteiro Leite](https://italo-monteiro-leite.vercel.app)
 Landing Page de apresentação de minha pessoa, demonstrando meus portifolios.
+
 🌐 [Acessar projeto](https://italo-monteiro-leite.vercel.app)
 
 ### [Molel](https://github.com/TyranoT/Molel)
