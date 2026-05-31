@@ -12,6 +12,10 @@ Estudante de Ciência da Computação, focado em criar aplicações web, APIs e 
 
 ## Projetos em destaque
 
+### [Italo Monteiro Leite](https://italo-monteiro-leite.vercel.app)
+Landing Page de apresentação de minha pessoa, demonstrando meus portifolios.
+🌐 [Acessar projeto](https://italo-monteiro-leite.vercel.app)
+
 ### [Molel](https://github.com/TyranoT/Molel)
 Software de simulação de estruturas de cadeias carbônicas.  
 Projeto desenvolvido com TypeScript, com foco em utilidade educacional e científica.  
