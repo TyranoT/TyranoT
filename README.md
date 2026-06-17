@@ -19,6 +19,7 @@ Landing Page de apresentação de minha pessoa, demonstrando meus portifolios.
 
 ### [Strongy - IA Personal Trainer](https://strongy.com.br)
 IA pessoal no WhatsApp: recebe áudios, fotos e textos, interpreta o contexto do usuário e responde de forma inteligente e personalizada. Integrado ao WhatsApp via Meta API.
+
 🌐 [Acessar projeto](https://molel.vercel.app)
 
 ### [Molel](https://github.com/TyranoT/Molel)
