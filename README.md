@@ -17,6 +17,10 @@ Landing Page de apresentação de minha pessoa, demonstrando meus portifolios.
 
 🌐 [Acessar projeto](https://italo-monteiro-leite.vercel.app)
 
+### [Strongy - IA Personal Trainer](https://strongy.com.br)
+IA pessoal no WhatsApp: recebe áudios, fotos e textos, interpreta o contexto do usuário e responde de forma inteligente e personalizada. Integrado ao WhatsApp via Meta API.
+🌐 [Acessar projeto](https://molel.vercel.app)
+
 ### [Molel](https://github.com/TyranoT/Molel)
 Software de simulação de estruturas de cadeias carbônicas.  
 Projeto desenvolvido com TypeScript, com foco em utilidade educacional e científica.  
