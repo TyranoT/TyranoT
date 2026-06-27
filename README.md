@@ -24,17 +24,20 @@ IA pessoal no WhatsApp: recebe áudios, fotos e textos, interpreta o contexto do
 
 ### [Molel](https://github.com/TyranoT/Molel)
 Software de simulação de estruturas de cadeias carbônicas.  
-Projeto desenvolvido com TypeScript, com foco em utilidade educacional e científica.  
+Projeto desenvolvido com TypeScript, com foco em utilidade educacional e científica.
+
 🌐 [Acessar projeto](https://molel.vercel.app)
 
 ### [WidgetPDF](https://github.com/TyranoT/WidgetPDF)
 Widget reutilizável para PDF publicado como pacote npm.  
-Um projeto que mostra meu interesse em criar ferramentas úteis para outros desenvolvedores.  
+Um projeto que mostra meu interesse em criar ferramentas úteis para outros desenvolvedores.
+
 📦 [Ver no npm](https://www.npmjs.com/package/@italo-git/widgetpdf)
 
 ### [FolioLang](https://github.com/TyranoT/FolioLang)
 FolioLang é uma DSL open source para criação de portfólios de forma simples, declarativa e legível.
 A proposta do projeto é permitir que desenvolvedores descrevam seu portfólio em um arquivo `.folio`, usando uma sintaxe própria e intuitiva, e a partir disso gerar uma página estática em HTML e CSS.
+
 📦 [Ver no github](https://github.com/TyranoT/FolioLang)
 
 ## Tecnologias
