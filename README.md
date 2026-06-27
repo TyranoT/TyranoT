@@ -32,6 +32,10 @@ Widget reutilizável para PDF publicado como pacote npm.
 Um projeto que mostra meu interesse em criar ferramentas úteis para outros desenvolvedores.  
 📦 [Ver no npm](https://www.npmjs.com/package/@italo-git/widgetpdf)
 
+### [FolioLang](https://github.com/TyranoT/FolioLang)
+FolioLang é uma DSL open source para criação de portfólios de forma simples, declarativa e legível.
+A proposta do projeto é permitir que desenvolvedores descrevam seu portfólio em um arquivo `.folio`, usando uma sintaxe própria e intuitiva, e a partir disso gerar uma página estática em HTML e CSS.
+
 ## Tecnologias
 
 ### Frontend
