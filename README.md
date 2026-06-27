@@ -35,6 +35,7 @@ Um projeto que mostra meu interesse em criar ferramentas úteis para outros dese
 ### [FolioLang](https://github.com/TyranoT/FolioLang)
 FolioLang é uma DSL open source para criação de portfólios de forma simples, declarativa e legível.
 A proposta do projeto é permitir que desenvolvedores descrevam seu portfólio em um arquivo `.folio`, usando uma sintaxe própria e intuitiva, e a partir disso gerar uma página estática em HTML e CSS.
+📦 [Ver no github](https://github.com/TyranoT/FolioLang)
 
 ## Tecnologias
 
